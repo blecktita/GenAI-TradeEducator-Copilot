@@ -37,7 +37,3 @@ docker-compose up --build
 ```
 http://localhost:8501
 ```
-
-volumes:
-  pgdata:
-  esdata: -->
