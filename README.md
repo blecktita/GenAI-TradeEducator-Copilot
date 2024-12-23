@@ -1,5 +1,5 @@
-# Financial Research Q&A Application
-A comprehensive Question and Answer application powered by Retrieval-Augmented Generation (RAG), leveraging a knowledge base of financial research papers. This project allows users to ask questions related to trading strategies and behavioral finance and receive accurate, context-aware answers.
+# Fin Q&A streamlit Application
+ This project allows users to ask questions related to trading strategies and behavioral finance and receive accurate, context-aware answers.
 
 ## Setup Instructions
 ### Prerequisites
@@ -7,8 +7,8 @@ Docker and Docker Compose installed on your machine.
 An OpenAI API Key. Sign up at OpenAI to obtain one.
  - Clone the Repository : 
 ```bash
-git [clone https://github.com/yourusername/investiq-qna-rag.git](https://github.com/blecktita/GenAI-TradeEducator-Copilot.git)
-cd investiq-qna-rag
+git clone https://github.com/blecktita/GenAI-TradeEducator-Copilot.git
+cd GenAI-TradeEducator-Copilot
 ```
  - Set Up Environment Variables : Create a .env file in the root directory with the following content:
 ```env
