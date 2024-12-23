@@ -7,7 +7,7 @@ Docker and Docker Compose installed on your machine.
 An OpenAI API Key. Sign up at OpenAI to obtain one.
  - Clone the Repository : 
 ```bash
-git clone https://github.com/yourusername/investiq-qna-rag.git
+git [clone https://github.com/yourusername/investiq-qna-rag.git](https://github.com/blecktita/GenAI-TradeEducator-Copilot.git)
 cd investiq-qna-rag
 ```
  - Set Up Environment Variables : Create a .env file in the root directory with the following content:
